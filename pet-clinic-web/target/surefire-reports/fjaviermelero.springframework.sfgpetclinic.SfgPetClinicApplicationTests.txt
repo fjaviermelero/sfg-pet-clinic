@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: fjaviermelero.springframework.sfgpetclinic.SfgPetClinicApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.106 s - in fjaviermelero.springframework.sfgpetclinic.SfgPetClinicApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.279 s - in fjaviermelero.springframework.sfgpetclinic.SfgPetClinicApplicationTests
