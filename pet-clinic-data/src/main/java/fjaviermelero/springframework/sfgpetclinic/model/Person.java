@@ -2,7 +2,7 @@ package fjaviermelero.springframework.sfgpetclinic.model;
 
 public class Person  extends BaseEntity{
     private String firstName;
-    private String laseName;
+    private String lastName;
 
     public String getFirstName() {
         return firstName;
@@ -12,11 +12,11 @@ public class Person  extends BaseEntity{
         this.firstName = firstName;
     }
 
-    public String getLaseName() {
-        return laseName;
+    public String getLastName() {
+        return lastName;
     }
 
-    public void setLaseName(String laseName) {
-        this.laseName = laseName;
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
     }
 }

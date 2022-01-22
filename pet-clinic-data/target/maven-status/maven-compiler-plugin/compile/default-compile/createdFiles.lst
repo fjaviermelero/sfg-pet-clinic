@@ -1,5 +1,14 @@
 fjaviermelero\springframework\sfgpetclinic\model\Owner.class
+fjaviermelero\springframework\sfgpetclinic\services\VetService.class
+fjaviermelero\springframework\sfgpetclinic\services\map\VetServiceMap.class
 fjaviermelero\springframework\sfgpetclinic\model\PetType.class
-fjaviermelero\springframework\sfgpetclinic\model\Pet.class
-fjaviermelero\springframework\sfgpetclinic\model\Vet.class
+fjaviermelero\springframework\sfgpetclinic\services\map\OwnerServiceMap.class
 fjaviermelero\springframework\sfgpetclinic\model\Person.class
+fjaviermelero\springframework\sfgpetclinic\services\CrudService.class
+fjaviermelero\springframework\sfgpetclinic\services\map\AbstractMapService.class
+fjaviermelero\springframework\sfgpetclinic\model\Pet.class
+fjaviermelero\springframework\sfgpetclinic\services\PetService.class
+fjaviermelero\springframework\sfgpetclinic\model\BaseEntity.class
+fjaviermelero\springframework\sfgpetclinic\model\Vet.class
+fjaviermelero\springframework\sfgpetclinic\services\map\PetServiceMap.class
+fjaviermelero\springframework\sfgpetclinic\services\OwnerService.class
