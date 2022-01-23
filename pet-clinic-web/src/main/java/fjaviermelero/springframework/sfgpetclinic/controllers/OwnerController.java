@@ -16,8 +16,6 @@ public class OwnerController {
         this.ownerService = ownerService;
     }
 
-
-
     @RequestMapping({"","/","/index","/index.html"})
     public String listOwners(Model model){
 
@@ -28,7 +26,11 @@ public class OwnerController {
             System.out.println(owner.getFirstName() + " " + owner.getLastName());
         }
         */
-
         return "owners/index";
+    }
+
+    @RequestMapping({"/find"})
+    public String findOwners(){
+        return "notimplemented";
     }
 }
